@@ -1,0 +1,15 @@
+body {
+
+    color: black;
+    opacity: 1;
+    background-color: yellow;
+    
+
+}
+
+.jumbotron {
+    background-image: url('bacteria_image.jpg');
+    background-size: 100% 100%;
+    text-align: center;
+    opacity: .9;
+}
